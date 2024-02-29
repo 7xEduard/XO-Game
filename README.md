@@ -1,2 +1,2 @@
 # Android-App
-XO Game
+XO Game FOR Android created by Java
